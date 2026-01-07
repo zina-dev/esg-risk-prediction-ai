@@ -1,16 +1,51 @@
-# ESG Risk Prediction using AI
+# ESG Risk Prediction using AI & Machine Reasoning
 
-This project implements an AI-driven pipeline to predict ESG risk levels
-using structured ESG financial indicators and machine learning models.
+## Overview
+This project develops an AI-driven ESG risk prediction pipeline that combines
+structured ESG financial indicators with machine learning and reasoning-based
+components to support transparent and explainable ESG risk assessment.
 
-## Project Components
-- Data preprocessing and feature engineering
-- Machine learning-based risk prediction
-- Rule-based and causal reasoning support
+The goal is to move beyond black-box ESG scores and provide
+data-driven, interpretable risk insights for decision-makers.
+
+## Problem Motivation
+Traditional ESG ratings often lack transparency, consistency, and adaptability.
+This project addresses these limitations by:
+- leveraging structured ESG KPIs
+- integrating rule-based and causal reasoning
+- emphasizing explainability alongside prediction performance
+
+## Methodology
+The pipeline consists of the following stages:
+
+1. **Data Preprocessing & Feature Engineering**
+   - ESG financial indicators
+   - Domain-informed feature construction
+
+2. **Machine Learning Models**
+   - Supervised learning models for ESG risk prediction
+   - Modular design to support model comparison
+
+3. **Machine Reasoning Layer**
+   - Rule-based logic for ESG risk interpretation
+   - Causal reasoning support for dependency analysis
+
+## Project Structure
+src/ Core pipeline and utilities
+notebooks/ Experiments and analysis
+docs/ Causal diagrams and knowledge graph artifacts
+
 
 ## Dataset
-The datasets used in this project are not included in the repository
-due to size and licensing restrictions.
+Due to size and licensing constraints, datasets are not included.
+The project is designed to work with publicly available ESG datasets
+(e.g., ESG financial indicators from public providers).
+
+## Key Skills Demonstrated
+- Data preprocessing & feature engineering
+- Machine learning for structured data
+- Explainable AI & reasoning-aware modeling
+- Research-oriented project structuring
 
 ## Author
-Tanzina Nizam
+Tanzina
