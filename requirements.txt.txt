@@ -1,0 +1,10 @@
+pandas
+numpy<2
+scikit-learn
+xgboost<2.0.0
+shap<0.50.0
+streamlit
+matplotlib
+networkx
+plotly
+fpdf
