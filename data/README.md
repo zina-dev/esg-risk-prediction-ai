@@ -13,4 +13,4 @@ The datasets used in this project are not included in the repository
 due to size and licensing restrictions.
 
 ## Author
-Tanzina Nizam
+Tanzina
