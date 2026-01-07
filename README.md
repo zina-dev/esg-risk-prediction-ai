@@ -49,3 +49,10 @@ The project is designed to work with publicly available ESG datasets
 
 ## Author
 Tanzina
+
+## How to Run
+```bash
+pip install -r requirements.txt
+python src/app.py
+
+
